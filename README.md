@@ -17,8 +17,8 @@ I'm a computer science student with interest in mobile development.
 <h2>My GitHub Stats</h2>
 <div align="center">
 <a href="https://git.io/streak-stats">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=koziej97&show_icons=true&hide_border=true&theme=nord"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koziej97&layout=compact&theme=nord&hide_border=true&langs_count=8"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=koziej97&show_icons=true&hide_border=true&theme=nord"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koziej97&layout=compact&theme=nord&hide_border=true&langs_count=8"/>
 </a>
 
 ![](https://komarev.com/ghpvc/?username=koziej97&style=flat&color=green&style=for-the-badge)
