@@ -7,9 +7,9 @@ I'm a computer science student with interest in mobile development.
 
 <h2>My Tech Skills</h2>
 <p align="left">
-  <img scr="icons/android.svg" height="80" title="Android"/>
-  <img scr="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" height="80" title="Kotlin"/>
-  <img scr="https://www.svgrepo.com/show/349588/android.svg" height="80" title="Flutter"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" height="80" title="Kotlin"/>
+  <img src="https://www.svgrepo.com/show/349588/android.svg" height="80" title="Android"/>
+  <img src="icons/flutter.svg" height="80" title="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" title="Java"/>
   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="80" title="JUnit5"/>
 </p>
