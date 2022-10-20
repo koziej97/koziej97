@@ -1,4 +1,3 @@
-<img src="image_apps.jpg"/>
 
 <h2>About Me</h2> 
 <p class="text-justify">
@@ -6,12 +5,20 @@ I'm a computer science student with interest in mobile development.
 </p>
 
 <h2>My Tech Skills</h2>
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" height="80" title="Kotlin"/>
-  <img src="https://www.svgrepo.com/show/349588/android.svg" height="80" title="Android"/>
-  <img src="icons/flutter.svg" height="80" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" title="Java"/>
-  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="80" title="JUnit5"/>
+<p align="center">
+  <img src="icons/android.svg" height="100" title="Android"/>
+  <img src="icons/kotlin.svg" height="100" title="Kotlin"/>
+  <img src="icons/android-studio.svg" height="100" title="Android Studio"/>
+  <img src="icons/gradle.svg" height="100" title="Gradle"/>
+  <img src="icons/flutter.svg" height="100" title="Flutter"/>
+  <img src="icons/firebase.svg" height="100" title="Firebase"/>
+  <img src="icons/java.svg" height="100" title="Java"/>
+  <img src="icons/git.svg" height="100" title="Git"/>
+  <img src="icons/junit5.png" height="100" title="JUnit5"/>
+  <img src="icons/IntelliJ.svg" height="100" title="IntelliJ"/>
+  <img src="icons/python.svg" height="100" title="Python"/>
+  <img src="icons/PyCharm.svg" height="100" title="PyCharm"/>
+   <img src="icons/maven.png" height="100" title="Maven"/>
 </p>
 
 <h2>My GitHub Stats</h2>
