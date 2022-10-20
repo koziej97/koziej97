@@ -10,15 +10,16 @@ I'm a computer science student with interest in mobile development.
   <img src="icons/kotlin.svg" height="100" title="Kotlin"/>
   <img src="icons/android-studio.svg" height="100" title="Android Studio"/>
   <img src="icons/gradle.svg" height="100" title="Gradle"/>
+  <img src="icons/jetpack-compose.png" height="100" title="Jetpack Compose"/>
   <img src="icons/flutter.svg" height="100" title="Flutter"/>
   <img src="icons/firebase.svg" height="100" title="Firebase"/>
-  <img src="icons/java.svg" height="100" title="Java"/>
   <img src="icons/git.svg" height="100" title="Git"/>
+  <img src="icons/java.svg" height="100" title="Java"/>
+  <img src="icons/maven.png" height="100" title="Maven"/>
   <img src="icons/junit5.png" height="100" title="JUnit5"/>
-  <img src="icons/IntelliJ.svg" height="100" title="IntelliJ"/>
   <img src="icons/python.svg" height="100" title="Python"/>
+  <img src="icons/IntelliJ.svg" height="100" title="IntelliJ"/>
   <img src="icons/PyCharm.svg" height="100" title="PyCharm"/>
-   <img src="icons/maven.png" height="100" title="Maven"/>
 </p>
 
 <h2>My GitHub Stats</h2>
