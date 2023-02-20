@@ -1,7 +1,7 @@
 
 <h2>About Me</h2> 
 <p class="text-justify">
-I'm a computer science student with interest in mobile development.
+Recently graduated computer science engineer looking for my first full-time job to start career as a mobile developer. Passionate about programming mobile applications.
 </p>
 
 <h2>My Tech Skills</h2>
