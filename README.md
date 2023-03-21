@@ -1,7 +1,7 @@
 
 <h2>About Me</h2> 
 <p class="text-justify">
-Recently graduated computer science engineer looking for my first full-time job to start career as a mobile developer. Passionate about programming mobile applications.
+Master's student in computer science looking for a part-time job to start career as a mobile developer. Passionate about programming mobile applications. Team player, hard worker, very communicative and ready to learn and grow.
 </p>
 
 <h2>My Tech Skills</h2>
