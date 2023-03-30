@@ -1,7 +1,7 @@
 
 <h2>About Me</h2> 
 <p class="text-justify">
-Master's student in computer science looking for a part-time job to start career as a mobile developer. Passionate about programming mobile applications. Team player, hard worker, very communicative and ready to learn and grow.
+Master's student in computer science looking for a part-time job to start career as a developer. Passionate about programming mobile applications and backend solutions. Team player, hard worker, very communicative and ready to learn and grow.
 </p>
 
 <h2>My Tech Skills</h2>
