@@ -1,8 +1,15 @@
-
 <h2>About Me</h2> 
 <p class="text-justify">
-Software Engineer with nearly 2 years of commercial experience. Graduate with a Bachelor of Engineering in Computer Science from Adam Mickiewicz University in Poznan, Poland.
-Passionate about the latest technologies, especially those related to the mobile industry. Committed to creating innovative applications that enhance users' daily experiences. A team player, hardworking, highly communicative, and ready to learn and grow.
+Mobile-focused Software Engineer with nearly 3 years of commercial experience specializing in the development of innovative mobile applications.
+
+Holds a Bachelor of Engineering (B.Eng.) in Computer Science from Adam Mickiewicz University in Poznań, Poland.
+
+Highly passionate about staying current with the latest mobile technologies and committed to creating applications that genuinely enhance users' daily experiences. A hardworking, communicative team player eager to learn, grow, and contribute effectively to project success.
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lukasz-koziej-079172247" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <h2>My Tech Skills</h2>
@@ -26,8 +33,8 @@ Passionate about the latest technologies, especially those related to the mobile
 <h2>My GitHub Stats</h2>
 <div align="center">
 <a href="https://git.io/streak-stats">
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=koziej97&show_icons=true&hide_border=true&theme=nord"/>
   <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koziej97&layout=compact&theme=nord&hide_border=true&langs_count=8"/>
 </a>
 
 ![](https://komarev.com/ghpvc/?username=koziej97&style=flat&color=green&style=for-the-badge)
+</div>
